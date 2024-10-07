@@ -1,1 +1,3 @@
 # Firearms_management
+
+The Python application provides a user interface that allows users to interact with the militarydb database, which stores information on firearms, soldiers, maintenance records, and firearm usage. Through this app, users can perform CRUD operations on various tables like Firearm, MaintenanceRecord, and Soldier, displaying data in a structured format. The underlying database schema, defined in the SQL file, outlines tables for storing firearm details, soldier information, maintenance logs, and usage records, with appropriate foreign key relationships to maintain data integrity. This system facilitates efficient management and tracking of military equipment and personnel interactions with firearms.
